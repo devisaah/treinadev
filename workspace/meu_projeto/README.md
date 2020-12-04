@@ -1,0 +1,1 @@
+Esse comando só funciona se você tem o Atom instalado, mas você pode usar qualquer editor de código ou texto. E se esse comando não funcionar, você pode abrir o editor normalmente como faria com qualquer programa de computador.
